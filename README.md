@@ -1,5 +1,4 @@
 # PORTFOLIO LANDING PAGE "Euclid"
----
 
 ### Description
 
@@ -12,8 +11,6 @@ This is the first personal web portfolio showing my skills :upside_down_face:.
 ### Date of current version
 
 14/10/2021
-
----
 
 ## Project setup instructions
 
@@ -37,8 +34,6 @@ Open Terminal. Change the current working directory to the location where you wa
 ```
 Type https://github.com/ViEW228/portfolio-euclid and press Enter to create your local clone.
 ```
-
----
 
 ## Technologies Used
 
