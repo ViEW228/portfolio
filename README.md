@@ -14,8 +14,16 @@ This is the first personal web portfolio showing my skills :upside_down_face:.
 
 ## Project setup instructions
 
-
 These instructions will get you a copy of the project up and running on your local machine for development.
+
+### Prerequisites
+
+```
+Editor
+Live server extension
+Git
+Github account
+```
 
 ### Installing
 
